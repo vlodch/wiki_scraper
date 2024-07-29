@@ -1,3 +1,5 @@
+Documentation: https://docs.google.com/document/d/1O9_FbREEwTZ5CZBNtfzynGAoSgAbQB9BqQdhGg377Fg/
+
 # Link to the google doc format document with the scripts details and explanations:
 https://github.com/vlodch/wiki_scraper/blob/main/wiki_scrapper_script.py - script with a Web Scraping through the Wikipedia, the script was developed to provide an easily demonstrable solution, serving as a proof-of-concept (POC) project. It showcases the core functionality that could be extended and refined in future iterations of the project. This initial version highlights the main features and demonstrates the project's potential for further development.
 
