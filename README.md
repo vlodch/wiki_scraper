@@ -1,3 +1,9 @@
+# Link to the google doc format document with the scripts details and explanations:
+https://github.com/vlodch/wiki_scraper/blob/main/wiki_scrapper_script.py - script with a Web Scraping through the Wikipedia,
+https://docs.google.com/document/d/19qD9YLflF8npkKV2q6LH5mJm5_KmdjjM6PIitLHBhOg/edit#heading=h.wudrgb4gcu0u - document with the detailed explanation of each function from the script
+
+# The project was developed with the goal of facilitating potential future extensions. By using Docker and Docker Compose, I demonstrated the opportunity to scale the project with additional dependencies or functionalities. This approach makes it much easier to manage and demonstrate all dependencies, as they are described within the Dockerfile and Docker Compose file, enabling more extensive functionality options. The script allows for quick setup and execution, while the Docker environment ensures consistency and ease of scaling.
+
 # Dockerized WikiScraper
 
 This project scrapes Wikipedia links and saves the results to CSV and JSON files.
